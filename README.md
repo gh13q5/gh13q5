@@ -3,5 +3,5 @@
 Computer Science :: HCI
 
 ✉️ Email : <gh13q5@gmail.com>   
-🖤 Notion : <https://www.notion.so/r-s13/Choi-Gahee-f47b30b6ec0f43a199c73c36dc49eedf>   
+🖤 Notion : <https://gh13.notion.site>   
 🗒️ Blog : <https://garden86.tistory.com>   
